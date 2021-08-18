@@ -1,0 +1,6 @@
+# a list of the params this service account is expecting:
+app_name=db_serviceaccount
+license_plate=oc-namespace-goes-here
+sa_role_name=db-remoteaccess-role
+sa_name=db-remoteaccess-sa
+sa_role_binding_name=db-remoteaccess-rb
